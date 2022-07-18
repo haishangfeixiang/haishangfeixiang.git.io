@@ -48,3 +48,9 @@ nav:
   - 讲稿:
     - about: 1/about.md
     - 1/index.md
+  - 简介:
+    - pro: 2/build.md
+    - 2/index.md
+  - 介绍:
+    - myself: 3/build1.md
+    - 3/index.md
