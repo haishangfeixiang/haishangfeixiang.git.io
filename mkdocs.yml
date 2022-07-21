@@ -53,6 +53,8 @@ nav:
      - pro: 2/build.md
      - git: 2/git.md
      - 2/index.md
-  - 介绍:
-     - myself: 3/build1.md
+  - 经济学:
+     - 新古典资产定价理论基础: 3/build1.md
      - 3/index.md
+     - 关于货币政策的一些新理论: 3/12.md
+     - 人们为何使用货币？: 3/34.md
